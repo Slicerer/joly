@@ -1,0 +1,25 @@
+------------------------------------------------------------------------
+lodash meta;
+<script src="https://cdn.jsdelivr.net/npm/lodash@4.17.21/lodash.min.js"></script>
+
+***important*** Cela Semble devoir etre mis dans le fichier js pour que lodash functionne;
+const _ = require('lodash'); SEULEMENT POUR VOIR DANS MA CONSOLE JS !!!
+SI JE VEUX VOIR DANS MA CONSOLE NAV JE NE DOIT PAS LE METTRE **************************
+
+
+
+***   jai aussi rentré ca dans ma commande window cest pour node js pour vois dans la console vs code ***
+npm install lodash
+
+
+--------------------------------------------------------------------------
+
+
+link pour tuto react
+https://www.youtube.com/watch?v=h2a0cSC1Vz8
+
+
+-----------------------------------------
+pour creer des macro
+editor.action.insertSnippet
+
